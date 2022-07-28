@@ -1,0 +1,28 @@
+.heading-1{
+    font-family:Arial ; 
+    color: red;
+}
+.orange-color{
+color: orange;
+} 
+
+.uppercase{
+text-transform: uppercase;
+}
+
+
+
+
+
+
+
+h2{
+    font-family: Impact;
+    color: blueviolet;
+    font-size: 60px;
+}
+
+p{
+    text-align: center;
+    text-transform: uppercase;
+}
